@@ -1,0 +1,6 @@
+{
+  "name": "Notify",
+  "description": "Minimalist, black-themed notification scheduler and manager with custom actions, expiration, and daily digest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

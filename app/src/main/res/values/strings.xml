@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notify</string>
+    <string name="notification_channel_id">notify_channel_reminders</string>
+    <string name="notification_channel_name">Notify Reminders</string>
+    <string name="notification_channel_desc">Scheduled and temporary custom notifications</string>
+    <string name="daily_channel_id">notify_channel_daily</string>
+    <string name="daily_channel_name">Daily Notification Overview</string>
+    <string name="daily_channel_desc">Daily aggregated overview of notifications</string>
+</resources>
